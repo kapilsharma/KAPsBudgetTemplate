@@ -1,3 +1,4 @@
+<?PHP include_once "config.php"; ?>
     <head>
         <meta charset="UTF-8">
         <title>AdminLTE | Dashboard</title>

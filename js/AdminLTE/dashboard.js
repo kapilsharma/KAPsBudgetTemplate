@@ -247,18 +247,18 @@ $(function() {
         element: 'bar-chart',
         resize: true,
         data: [
-            {y: '2006', a: 100, b: 90},
-            {y: '2007', a: 75, b: 65},
-            {y: '2008', a: 50, b: 40},
-            {y: '2009', a: 75, b: 65},
-            {y: '2010', a: 50, b: 40},
-            {y: '2011', a: 75, b: 65},
-            {y: '2012', a: 100, b: 90}
+            {y: 'Rent', a: 9300, b: 9300},
+            {y: 'Provision', a: 8000, b: 3872},
+            {y: 'Bike', a: 800, b: 1920},
+            {y: 'Mobile Recharges', a: 1000, b: 642},
+            {y: 'Insurance', a: 7000, b: 500},
+            {y: 'Bike Petrol', a: 2000, b: 500},
+            {y: 'Fruites & Vegitables', a: 1000, b: 430}
         ],
         barColors: ['#00a65a', '#f56954'],
         xkey: 'y',
         ykeys: ['a', 'b'],
-        labels: ['CPU', 'DISK'],
+        labels: ['Budget', 'Invested'],
         hideHover: 'auto'
     });
     //Fix for charts under tabs

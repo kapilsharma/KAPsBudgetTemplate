@@ -21,27 +21,27 @@
                                             <div class="pad">
                                                 <!-- Progress bars -->
                                                 <div class="clearfix">
-                                                    <span class="pull-left">Bandwidth</span>
-                                                    <small class="pull-right">10/200 GB</small>
+                                                    <span class="pull-left">Total Budget</span>
+                                                    <small class="pull-right">12873/35000</small>
                                                 </div>
                                                 <div class="progress xs">
-                                                    <div class="progress-bar progress-bar-green" style="width: 70%;"></div>
+                                                    <div class="progress-bar progress-bar-green" style="width: 37%;"></div>
                                                 </div>
 
                                                 <div class="clearfix">
-                                                    <span class="pull-left">Transfered</span>
-                                                    <small class="pull-right">10 GB</small>
+                                                    <span class="pull-left">Bill paid</span>
+                                                    <small class="pull-right">3/10</small>
                                                 </div>
                                                 <div class="progress xs">
-                                                    <div class="progress-bar progress-bar-red" style="width: 70%;"></div>
+                                                    <div class="progress-bar progress-bar-red" style="width: 30%;"></div>
                                                 </div>
 
                                                 <div class="clearfix">
-                                                    <span class="pull-left">Activity</span>
-                                                    <small class="pull-right">73%</small>
+                                                    <span class="pull-left">Credit Card expanse</span>
+                                                    <small class="pull-right">5600/10000</small>
                                                 </div>
                                                 <div class="progress xs">
-                                                    <div class="progress-bar progress-bar-light-blue" style="width: 70%;"></div>
+                                                    <div class="progress-bar progress-bar-light-blue" style="width: 56%;"></div>
                                                 </div>
 
                                                 <div class="clearfix">

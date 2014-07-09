@@ -4,17 +4,17 @@
                             <div class="small-box bg-aqua">
                                 <div class="inner">
                                     <h3>
-                                        150
+                                        <?= $config["currency"] ?> 12873
                                     </h3>
                                     <p>
-                                        New Orders
+                                        Expanses till now
                                     </p>
                                 </div>
                                 <div class="icon">
                                     <i class="ion ion-bag"></i>
                                 </div>
                                 <a href="#" class="small-box-footer">
-                                    More info <i class="fa fa-arrow-circle-right"></i>
+                                    Go to Register <i class="fa fa-table"></i>
                                 </a>
                             </div>
                         </div><!-- ./col -->

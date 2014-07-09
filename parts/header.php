@@ -66,7 +66,7 @@
                                     <!-- inner menu: contains the actual data -->
                                     <ul class="menu">
                                         <li>
-                                            <a href="#"><i class="ion ion-ios7-people info"></i> Gift <i class="fa fa-fw fa-rupee menuicon"></i>869/1000</a>
+                                            <a href="#"><i class="ion ion-ios7-people info"></i> Gift <?= $config["currency_menu"] ?>869/1000</a>
                                         </li>
                                         <li>
                                             <a href="#">
