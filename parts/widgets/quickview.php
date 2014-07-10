@@ -11,7 +11,7 @@
                                     </p>
                                 </div>
                                 <div class="icon">
-                                    <i class="ion ion-bag"></i>
+                                    <i class="ion ion-ios7-cart"></i>
                                 </div>
                                 <a href="#" class="small-box-footer">
                                     Go to Register <i class="fa fa-table"></i>
@@ -23,17 +23,17 @@
                             <div class="small-box bg-green">
                                 <div class="inner">
                                     <h3>
-                                        53<sup style="font-size: 20px">%</sup>
+                                        30<sup style="font-size: 20px">%</sup>
                                     </h3>
                                     <p>
-                                        Bounce Rate
+                                        3/10 Bills paid
                                     </p>
                                 </div>
                                 <div class="icon">
-                                    <i class="ion ion-stats-bars"></i>
+                                    <i class="ion ion-checkmark-round"></i>
                                 </div>
                                 <a href="#" class="small-box-footer">
-                                    More info <i class="fa fa-arrow-circle-right"></i>
+                                    Check unpaid bills <i class="fa fa-calendar-o"></i>
                                 </a>
                             </div>
                         </div><!-- ./col -->
@@ -42,17 +42,17 @@
                             <div class="small-box bg-yellow">
                                 <div class="inner">
                                     <h3>
-                                        44
+                                        <?= $config["currency"] ?> 28561.06
                                     </h3>
                                     <p>
-                                        User Registrations
+                                        Money remaining
                                     </p>
                                 </div>
                                 <div class="icon">
-                                    <i class="ion ion-person-add"></i>
+                                    <i class="ion ion-pie-graph"></i>
                                 </div>
                                 <a href="#" class="small-box-footer">
-                                    More info <i class="fa fa-arrow-circle-right"></i>
+                                    Check Categories <i class="fa fa-tasks"></i>
                                 </a>
                             </div>
                         </div><!-- ./col -->
@@ -61,17 +61,17 @@
                             <div class="small-box bg-red">
                                 <div class="inner">
                                     <h3>
-                                        65
+                                        <?= $config["currency"] ?> 3872.39
                                     </h3>
                                     <p>
-                                        Unique Visitors
+                                        Credit Card Expanses
                                     </p>
                                 </div>
                                 <div class="icon">
-                                    <i class="ion ion-pie-graph"></i>
+                                    <i class="ion ion-card"></i>
                                 </div>
                                 <a href="#" class="small-box-footer">
-                                    More info <i class="fa fa-arrow-circle-right"></i>
+                                    Check CC Account <i class="fa fa-credit-card"></i>
                                 </a>
                             </div>
                         </div><!-- ./col -->
