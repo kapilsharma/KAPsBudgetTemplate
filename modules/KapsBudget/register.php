@@ -1,4 +1,4 @@
-<?PHP require_once "config.php" ?>
+<?PHP require_once "../../config.php" ?>
 <!DOCTYPE html>
 <html>
 <?PHP include $config['base_path'] . "parts/head.php"; ?>
@@ -20,7 +20,7 @@
                     <!-- top row -->
                     <div class="row">
                         <div class="col-xs-12 connectedSortable">
-                            
+                            ss
                         </div><!-- /.col -->
                     </div>
                     <!-- /.row -->
