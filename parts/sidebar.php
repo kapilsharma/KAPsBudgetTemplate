@@ -30,30 +30,30 @@
                                 <i class="fa fa-dashboard"></i> <span>Dashboard</span>
                             </a>
                         </li>
-                        <li class="treeview">
+                        <li>
                             <a href="<?= $config['base_url']; ?>modules/KapsBudget/register.php">
-                                <i class="fa fa-laptop"></i>
+                                <i class="fa fa-table"></i>
                                 <span>Register</span>
                             </a>
                         </li>
-                        <li class="treeview">
+                        <li>
                             <a href="#">
-                                <i class="fa fa-edit"></i> <span>Accounts</span>
+                                <i class="fa fa-credit-card"></i> <span>Accounts</span>
                             </a>
                         </li>
-                        <li class="treeview">
+                        <li>
                             <a href="#">
-                                <i class="fa fa-table"></i> <span>Categories</span>
+                                <i class="fa fa-tasks"></i> <span>Categories</span>
                             </a>
                         </li>
                         <li>
                             <a href="pages/calendar.html">
-                                <i class="fa fa-calendar"></i> <span>Budget</span>
+                                <i class="fa fa-bars"></i> <span>Budget</span>
                             </a>
                         </li>
-                        <li class="treeview">
+                        <li>
                             <a href="#">
-                                <i class="fa fa-folder"></i> <span>Reports</span>
+                                <i class="fa fa-eye"></i> <span>Reports</span>
                             </a>
                         </li>
                     </ul>
