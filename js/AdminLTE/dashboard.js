@@ -89,14 +89,14 @@ $(function() {
     });
 
     //Sparkline charts
-    var myvalues = [15, 19, 20, -22, -33, 27, 31, 27, 19, 30, 21];
+    var myvalues = [302,59,201,24,39,0,11,227,99,108];
     $('#sparkline-1').sparkline(myvalues, {
         type: 'bar',
         barColor: '#00a65a',
         negBarColor: "#f56954",
         height: '20px'
     });
-    myvalues = [15, 19, 20, 22, -2, -10, -7, 27, 19, 30, 21];
+    myvalues = [302,59,24,227,99,108,201,39,0,11];
     $('#sparkline-2').sparkline(myvalues, {
         type: 'bar',
         barColor: '#00a65a',
