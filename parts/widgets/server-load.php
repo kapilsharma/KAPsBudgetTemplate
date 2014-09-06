@@ -9,7 +9,7 @@
                                     </div><!-- /. tools -->
                                     <i class="fa fa-cloud"></i>
 
-                                    <h3 class="box-title">Server Load</h3>
+                                    <h3 class="box-title">Quick Budget view</h3>
                                 </div><!-- /.box-header -->
                                 <div class="box-body no-padding">
                                     <div class="row">
